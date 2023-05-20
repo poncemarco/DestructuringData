@@ -1,0 +1,2 @@
+# DestructuringData
+Created with CodeSandbox
